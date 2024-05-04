@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheckApi\\WeatherCheckApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Data\\WeatherCheck.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Data\\WeatherCheck.Data.csproj",
+        "projectName": "WeatherCheck.Data",
+        "projectPath": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Data\\WeatherCheck.Data.csproj",
+        "packagesPath": "C:\\Users\\Wissam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wissam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Domain\\WeatherCheck.Domain.csproj": {
+                "projectPath": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Domain\\WeatherCheck.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.143, )"
+            },
+            "Dapper.FluentMap": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Domain\\WeatherCheck.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Domain\\WeatherCheck.Domain.csproj",
+        "projectName": "WeatherCheck.Domain",
+        "projectPath": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Domain\\WeatherCheck.Domain.csproj",
+        "packagesPath": "C:\\Users\\Wissam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wissam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheckApi\\WeatherCheckApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheckApi\\WeatherCheckApi.csproj",
+        "projectName": "WeatherCheckApi",
+        "projectPath": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheckApi\\WeatherCheckApi.csproj",
+        "packagesPath": "C:\\Users\\Wissam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheckApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Wissam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Data\\WeatherCheck.Data.csproj": {
+                "projectPath": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Data\\WeatherCheck.Data.csproj"
+              },
+              "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Domain\\WeatherCheck.Domain.csproj": {
+                "projectPath": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Domain\\WeatherCheck.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Jaeger": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "OpenTracing.Contrib.NetCore": {
+              "target": "Package",
+              "version": "[0.9.0, )"
+            },
+            "RawRabbit": {
+              "target": "Package",
+              "version": "[1.10.4, )"
+            },
+            "RawRabbit.DependencyInjection.Autofac": {
+              "target": "Package",
+              "version": "[1.10.4, )"
+            },
+            "RawRabbit.Extensions": {
+              "target": "Package",
+              "version": "[1.10.4, )"
+            },
+            "RestEase": {
+              "target": "Package",
+              "version": "[1.6.4, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+
+CREATE TABLE weather_data (
+    id UUID PRIMARY KEY,
+    temp_c DOUBLE PRECISION NOT NULL,
+    temp_f DOUBLE PRECISION  NULL,
+    wind_mph DOUBLE PRECISION  NULL,
+    wind_kph DOUBLE PRECISION  NULL,
+    humidity DOUBLE PRECISION  NULL,
+    cloud DOUBLE PRECISION  NULL,
+    name TEXT NOT NULL,
+    region TEXT NULL,
+    country TEXT NULL,
+    local_time TIMESTAMP without time zone  NULL,
+    Date_created TIMESTAMP without time zone  NULL
+);

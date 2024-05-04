@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/Djqv/KasWf741AVepcFQP3+5BhyIxbu/OodlJNB4TpDE+okvKEumibH3bSvzwx/cSOh8egZUx0KijHHBNO1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Data\\WeatherCheck.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wissam\\.nuget\\packages\\dapper\\2.0.143\\dapper.2.0.143.nupkg.sha512",
+    "C:\\Users\\Wissam\\.nuget\\packages\\dapper.fluentmap\\2.0.0\\dapper.fluentmap.2.0.0.nupkg.sha512",
+    "C:\\Users\\Wissam\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wissam\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Wissam\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Wissam\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

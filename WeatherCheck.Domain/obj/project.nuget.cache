@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WfpEk9UzyOxl+tkt6HMksBtFwUwM4nD/7Y87dU5CzguKbWNGtjVauF7Br1ryarRS4wR+Cinj9ScXjzX1AbZOpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wissam\\source\\repos\\WeatherCheckApi\\WeatherCheck.Domain\\WeatherCheck.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wissam\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Wissam\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

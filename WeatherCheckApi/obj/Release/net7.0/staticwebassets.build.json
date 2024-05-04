@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YDiCb/M2cmd5V91R9bf/8jT/4Vj7tuv01GkDjNvi4PA=",
+  "Source": "WeatherCheckApi",
+  "BasePath": "_content/WeatherCheckApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

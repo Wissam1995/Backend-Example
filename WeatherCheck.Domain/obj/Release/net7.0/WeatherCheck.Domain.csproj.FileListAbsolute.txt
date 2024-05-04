@@ -1,0 +1,12 @@
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\bin\Release\net7.0\WeatherCheck.Domain.deps.json
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\bin\Release\net7.0\WeatherCheck.Domain.dll
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\bin\Release\net7.0\WeatherCheck.Domain.pdb
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\obj\Release\net7.0\WeatherCheck.Domain.csproj.AssemblyReference.cache
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\obj\Release\net7.0\WeatherCheck.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\obj\Release\net7.0\WeatherCheck.Domain.AssemblyInfoInputs.cache
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\obj\Release\net7.0\WeatherCheck.Domain.AssemblyInfo.cs
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\obj\Release\net7.0\WeatherCheck.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\obj\Release\net7.0\WeatherCheck.Domain.dll
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\obj\Release\net7.0\refint\WeatherCheck.Domain.dll
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\obj\Release\net7.0\WeatherCheck.Domain.pdb
+C:\Users\Wissam\source\repos\WeatherCheckApi\WeatherCheck.Domain\obj\Release\net7.0\ref\WeatherCheck.Domain.dll
